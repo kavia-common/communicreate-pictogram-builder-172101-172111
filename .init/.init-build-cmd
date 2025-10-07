@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/communicreate-pictogram-builder-172101-172111/pictogram_frontend"
+}
