@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/communicreate-pictogram-builder-172101-172111/pictogram_frontend/.dart_tool/flutter_build/94d1f2d591d134ff9b2a9280bed38142/native_assets.json: 
